@@ -209,7 +209,6 @@ bindsym $mod+x scratchpad show
 bindsym $mod+Shift+x move scratchpad
 
 bindsym $mod+Shift+f exec --no-startup-id firefox -new-tab
-bindsym $mod+Shift+c exec --no-startup-id code-insiders
 
 # lock screen
 bindsym $mod+Shift+z exec --no-startup-id i3lock-fancy-rapid 10 10
